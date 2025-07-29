@@ -1,0 +1,18 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+C:/Users/aniru/Desktop/RISC V/RISC_single_cycle_core/RISC_single_cycle_core.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+C:/Users/aniru/Desktop/RISC V/RISC_single_cycle_core/RISC_single_cycle_core.srcs/sim_1/new/Single_Cycle_Top_Tb.v,1753635715,verilog,,,,Single_Cycle_Top_Tb,,,,,,,,
+C:/Users/aniru/Desktop/RISC V/RISC_single_cycle_core/RISC_single_cycle_core.srcs/sources_1/new/ALU.v,1753632252,verilog,,C:/Users/aniru/Desktop/RISC V/RISC_single_cycle_core/RISC_single_cycle_core.srcs/sources_1/new/ALU_Decoder.v,,ALU,,,,,,,,
+C:/Users/aniru/Desktop/RISC V/RISC_single_cycle_core/RISC_single_cycle_core.srcs/sources_1/new/ALU_Decoder.v,1753632302,verilog,,C:/Users/aniru/Desktop/RISC V/RISC_single_cycle_core/RISC_single_cycle_core.srcs/sources_1/new/Control_Unit_Top.v,,ALU_Decoder,,,,,,,,
+C:/Users/aniru/Desktop/RISC V/RISC_single_cycle_core/RISC_single_cycle_core.srcs/sources_1/new/Control_Unit_Top.v,1753632533,verilog,,C:/Users/aniru/Desktop/RISC V/RISC_single_cycle_core/RISC_single_cycle_core.srcs/sources_1/new/Data_Memory.v,,Control_Unit_Top,,,,,,,,
+C:/Users/aniru/Desktop/RISC V/RISC_single_cycle_core/RISC_single_cycle_core.srcs/sources_1/new/Data_Memory.v,1753721337,verilog,,C:/Users/aniru/Desktop/RISC V/RISC_single_cycle_core/RISC_single_cycle_core.srcs/sources_1/new/Instruction_Memory.v,,Data_Memory,,,,,,,,
+C:/Users/aniru/Desktop/RISC V/RISC_single_cycle_core/RISC_single_cycle_core.srcs/sources_1/new/Instruction_Memory.v,1753721131,verilog,,C:/Users/aniru/Desktop/RISC V/RISC_single_cycle_core/RISC_single_cycle_core.srcs/sources_1/new/Main_Decoder.v,,Instruction_Memory,,,,,,,,
+C:/Users/aniru/Desktop/RISC V/RISC_single_cycle_core/RISC_single_cycle_core.srcs/sources_1/new/Main_Decoder.v,1753632469,verilog,,C:/Users/aniru/Desktop/RISC V/RISC_single_cycle_core/RISC_single_cycle_core.srcs/sources_1/new/Mux.v,,Main_Decoder,,,,,,,,
+C:/Users/aniru/Desktop/RISC V/RISC_single_cycle_core/RISC_single_cycle_core.srcs/sources_1/new/Mux.v,1753632578,verilog,,C:/Users/aniru/Desktop/RISC V/RISC_single_cycle_core/RISC_single_cycle_core.srcs/sources_1/new/PC.v,,Mux,,,,,,,,
+C:/Users/aniru/Desktop/RISC V/RISC_single_cycle_core/RISC_single_cycle_core.srcs/sources_1/new/PC.v,1753632622,verilog,,C:/Users/aniru/Desktop/RISC V/RISC_single_cycle_core/RISC_single_cycle_core.srcs/sources_1/new/PC_Adder.v,,PC_Module,,,,,,,,
+C:/Users/aniru/Desktop/RISC V/RISC_single_cycle_core/RISC_single_cycle_core.srcs/sources_1/new/PC_Adder.v,1753632669,verilog,,C:/Users/aniru/Desktop/RISC V/RISC_single_cycle_core/RISC_single_cycle_core.srcs/sources_1/new/Register_File.v,,PC_Adder,,,,,,,,
+C:/Users/aniru/Desktop/RISC V/RISC_single_cycle_core/RISC_single_cycle_core.srcs/sources_1/new/Register_File.v,1753636735,verilog,,C:/Users/aniru/Desktop/RISC V/RISC_single_cycle_core/RISC_single_cycle_core.srcs/sources_1/new/Sign_Extend.v,,Register_File,,,,,,,,
+C:/Users/aniru/Desktop/RISC V/RISC_single_cycle_core/RISC_single_cycle_core.srcs/sources_1/new/Sign_Extend.v,1753632755,verilog,,C:/Users/aniru/Desktop/RISC V/RISC_single_cycle_core/RISC_single_cycle_core.srcs/sources_1/new/Single_Cycle_Top.v,,Sign_Extend,,,,,,,,
+C:/Users/aniru/Desktop/RISC V/RISC_single_cycle_core/RISC_single_cycle_core.srcs/sources_1/new/Single_Cycle_Top.v,1753632834,verilog,,C:/Users/aniru/Desktop/RISC V/RISC_single_cycle_core/RISC_single_cycle_core.srcs/sim_1/new/Single_Cycle_Top_Tb.v,,Single_Cycle_Top,,,,,,,,
