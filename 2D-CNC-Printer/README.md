@@ -7,9 +7,8 @@ This project implements a simple CNC-style 2D printer capable of converting digi
 - L293D motor driver
 - Two DVD stepper motors (for X and Y axes)
 - Servo motor (Z-axis pen lift)
-- IR sensor (for home position detection, optional)
 - Pen/pencil as drawing tool
-- Power supply (9–12V DC)
+- Power supply (5V DC)
 
 ## 🧠 Software Stack
 - **Arduino IDE** — for uploading control code (`2D_printer_code.ino`)
